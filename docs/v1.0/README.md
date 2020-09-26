@@ -1,10 +1,10 @@
 # Cnblogs-Theme-SimpleMemory
 
-?> 该版本最后提交更新版本：[d2c2e52cfefe2c274bed21735e38827638998f0e](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/tree/d2c2e52cfefe2c274bed21735e38827638998f0e)
+?> 该版本最后提交更新版本：[d2c2e52cfefe2c274bed21735e38827638998f0e](https://github.com/svipghy/cnblogs/releases)
 
 ?> 由于该版本配置麻烦而复杂，已不推荐使用该版本，推荐版本：>= v1.1.2
 
-?> 希望大家尽量使用最新的版本：[![GitHub release](https://img.shields.io/github/release/BNDong/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory/releases)
+?> 希望大家尽量使用最新的版本：[![GitHub release](https://img.shields.io/github/release/BNDong/Cnblogs-Theme-SimpleMemory.svg)](https://github.com/svipghy/cnblogs)
 
 # 目录结构
 
